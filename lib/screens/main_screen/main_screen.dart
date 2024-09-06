@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:test_plitka/cubit/game_cubit.dart';
-import 'package:test_plitka/screens/widgets/footer.dart';
-import 'package:test_plitka/screens/widgets/plitka_grid.dart';
+import 'package:test_plitka/screens/main_screen/cubit/game_cubit.dart';
+import 'package:test_plitka/screens/main_screen/widgets/footer.dart';
+import 'package:test_plitka/screens/main_screen/widgets/plitka_grid.dart';
 
 class MainScreen extends StatefulWidget {
   const MainScreen({super.key});
